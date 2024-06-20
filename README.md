@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Vinodh Jeevanantham! 👋
 
-<!--
-**vinodhj/vinodhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a passionate software developer from 🇮🇳 India. I love coding, open-source, and learning new technologies.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning about AI and Large Language Models (LLMs)
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about anything [here](https://github.com/vinodhj/vinodhj/issues)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Node.js, Typescript, Javascript
+- **Frameworks:** GraphQL, Express.js
+- **Databases:** PostgreSQL, NoSQL, MySQL, SQLite
+- **Tools & Platforms:** Docker, Hasura, Elasticsearch, Git, AWS services
+- **Methodologies:** Agile
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/vinodh-jeevanantham/)
