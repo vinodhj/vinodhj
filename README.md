@@ -18,3 +18,4 @@ I'm a passionate software developer from 🇮🇳 India. I love coding, open-sou
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/vinodh-jeevanantham/)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vinodhj&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vinodhj)](https://git.io/streak-stats)
