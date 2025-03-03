@@ -17,6 +17,6 @@ I'm a passionate software developer from 🇮🇳 India. I love coding, open-sou
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/vinodh-jeevanantham/)
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=vinodhj&theme=dark)(https://github.com/vinodhj)]
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=vinodhj&theme=dark)](https://github.com/vinodhj)
 
 
